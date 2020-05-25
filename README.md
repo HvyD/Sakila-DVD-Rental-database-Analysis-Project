@@ -70,7 +70,7 @@ We want to understand more about the movies that families are watching. The foll
 
 **Question 2**
 
-Now we need to know how the length of rental duration of these family-friendly movies compares to the duration that all movies are rented for. **Can you provide a table with the movie titles and divide them into 4 levels (first_quarter, second_quarter, third_quarter, and final_quarter) based on the quartiles (25%, 50%, 75%) of the rental duration for movies across all categories?** Make sure to also indicate the category that these family-friendly movies fall into.
+What is the average rental duration of the movies by their genre?
 
 **Question 3**
 
